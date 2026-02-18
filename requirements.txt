@@ -1,9 +1,0 @@
-ipykernel
-pandas
-scikit-learn
-numpy
-seaborn
-matplotlib
-missingno
-xgboost
-streamlit
